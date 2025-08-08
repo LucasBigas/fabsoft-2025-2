@@ -4,6 +4,9 @@ public class Cliente {
     private String nome;
     private int idade;
     private float peso;
+    private Cidade cidade;
+
+    
     
     public String getNome() {
         return nome;
@@ -22,6 +25,12 @@ public class Cliente {
     }
     public void setPeso(float peso) {
         this.peso = peso;
+    }
+    public Cidade getCidade() {
+        return cidade;
+    }
+    public void setCidade(Cidade cidade) {
+        this.cidade = cidade;
     }
 
     
