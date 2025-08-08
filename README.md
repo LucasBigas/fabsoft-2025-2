@@ -1,5 +1,5 @@
 # Fábrica de Software 2025/2
-Lucas Bigas
+Lucas Bigas Padilha
 
 ## Propostas de projeto
 
