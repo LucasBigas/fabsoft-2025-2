@@ -14,9 +14,18 @@ Lucas Bigas Padilha
 
 
 - Nome do sistema:Sistema Clinico 
-  - Funcionalidade 1 Cadastrar dados do Cliente
+  - Funcionalidade 1 Cadastrar dados do Paciente
   - Funcionalidade 2 Cadastrar Medicos 
-  - Funcionalidade 3 Cadastrar Especialidades 
+  - Funcionalidade 3 Cadastrar Especialidades
+  - Funcionalidade 4 Cadastrar uma lista de Exames
+  - Funcionalidade 5 Resultados do exames do Paciente
+  - Funcionalidade 6 Cadastrar agenda de cada medicos
+  - Funcionalidade 7 Fazer uma agendamento de uma consulta
+  - Funcionalidade 8 
+  - Funcionalidade 9
+  - Funcionalidade 10
+  - Funcionalidade 11
+  - Funcionalidade 12 
 
 ## Aula 05/08
 
