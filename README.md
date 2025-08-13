@@ -21,11 +21,11 @@ Lucas Bigas Padilha
   - Funcionalidade 5 Resultados do exames do Paciente
   - Funcionalidade 6 Cadastrar agenda de cada medicos
   - Funcionalidade 7 Fazer uma agendamento de uma consulta
-  - Funcionalidade 8 
-  - Funcionalidade 9
-  - Funcionalidade 10
-  - Funcionalidade 11
-  - Funcionalidade 12 
+  - Funcionalidade 8 Emitir atestado médico
+  - Funcionalidade 9 Gerenciar histórico de atendimentos
+  - Funcionalidade 10 Gestão de Convênios
+  - Funcionalidade 11 Cadastrar uma lista de clínicas*
+  - Funcionalidade 12 Sistema de Login*
 
 ## Aula 05/08
 
