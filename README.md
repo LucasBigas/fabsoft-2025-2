@@ -13,7 +13,7 @@ Lucas Bigas Padilha
 </s>
 
 
-- Nome do sistema:Sistema Clinico 
+- Nome do sistema: Sistema Clinico 
   - Funcionalidade 1 Cadastrar dados do Paciente
   - Funcionalidade 2 Cadastrar Medicos 
   - Funcionalidade 3 Cadastrar Especialidades
