@@ -26,7 +26,7 @@ Lucas Bigas Padilha
   - Funcionalidade 10 Gestão de Convênios
   - Funcionalidade 11 Cadastrar uma lista de clínicas*
   - Funcionalidade 12 Sistema de Login*
-  - Funcionalidade 13 Tipos de Pagamentos
+  - Funcionalidade 13 Cadastrar Tipos de Pagamentos
 
 ## Aula 05/08
 
