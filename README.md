@@ -25,7 +25,7 @@ Lucas Bigas Padilha
   - Funcionalidade 9 Agendar exames 
   - Funcionalidade 10 Controle de Convênios/Planos de Saúde
   - Funcionalidade 11 Entrega de Exames
-  - *Funcionalidade 12 Sistema de Permissoes e login ADM, Medicos , Recepcionista e Paciente
+  - *Funcionalidade 12 Sistema de Permissoes e login Medicos e Recepcionista
   - Funcionalidade 13 Cadastrar Agenda
 
 ## Aula 05/08
