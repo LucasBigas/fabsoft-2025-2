@@ -17,16 +17,16 @@ Lucas Bigas Padilha
   - Funcionalidade 1 Cadastrar dados do Paciente
   - Funcionalidade 2 Cadastrar Medicos 
   - Funcionalidade 3 Cadastrar Especialidades
-  - Funcionalidade 4 Cadastrar uma lista de Exames
-  - Funcionalidade 5 Resultados do exames do Paciente
-  - Funcionalidade 6 Cadastrar agenda de cada medicos
-  - Funcionalidade 7 Fazer uma agendamento de uma consulta
-  - Funcionalidade 8 Emitir atestado médico
-  - Funcionalidade 9 Gerenciar histórico de atendimentos
-  - Funcionalidade 10 Gestão de Convênios
-  - Funcionalidade 11 Cadastrar uma lista de clínicas*
-  - Funcionalidade 12 Sistema de Login*
-  - Funcionalidade 13 Cadastrar Tipos de Pagamentos
+  - Funcionalidade 4 Cadastrar Exames
+  - Funcionalidade 5 Cadastrar clinicas 
+  - Funcionalidade 6 Cadastrar Tipos de Pagamentos
+  - Funcionalidade 7 Agendar consulta
+  - Funcionalidade 8 Prontuário Eletrônico
+  - Funcionalidade 9 Agendar exames 
+  - Funcionalidade 10 Controle de Convênios/Planos de Saúde
+  - Funcionalidade 11 Entrega de Exames
+  - *Funcionalidade 12 Sistema de Permissoes e login ADM, Medicos , Recepcionista e Paciente
+  - Funcionalidade 13 Cadastrar Agenda
 
 ## Aula 05/08
 
