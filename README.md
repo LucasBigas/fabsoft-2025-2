@@ -47,3 +47,13 @@ Lucas Bigas Padilha
 - VSCode
   - [VSCode](https://code.visualstudio.com/)
   - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+    
+## Histórias de Usuário
+- Como um funcionário, eu gostaria de cadastrar um paciente, para que ele possa ser atendido na clínica.
+- Como um funcionário, eu gostaria de editar os dados de um paciente, para corrigir informações incorretas.
+- Como um funcionário, eu gostaria de excluir um paciente, caso seja necessário remover registros duplicados ou incorretos.
+- Como um funcionário, eu gostaria de visualizar a lista de pacientes cadastrados, para facilitar a consulta.
+- Como um funcionário, eu gostaria de cadastrar um médico, para que ele possa atender pacientes na clínica.
+- Como um funcionário, eu gostaria de editar os dados de um médico, para atualizar informações como especialidade ou contato.
+- Como um funcionário, eu gostaria de excluir um médico, caso ele não trabalhe mais na clínica.
+- Como um funcionário, eu gostaria de consultar a lista de médicos, para verificar quem está disponível.
