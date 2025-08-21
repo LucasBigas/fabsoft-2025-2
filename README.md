@@ -47,6 +47,125 @@ Lucas Bigas Padilha
 - Como um funcionário, eu gostaria de excluir um exame, caso não seja mais oferecido.  
 - Como um funcionário, eu gostaria de cadastrar uma clínica, para poder associar atendimentos e exames.  
 - Como um funcionário, eu gostaria de editar os dados de uma clínica, para manter informações atualizadas.  
-- Como um funcionário, eu gostaria de excluir uma clínica, caso ela não esteja mais disponível.  
+- Como um funcionário, eu gostaria de excluir uma clínica, caso ela não esteja mais disponível.
+## Diagrama de Classes 
+```mermaid
+classDiagram
+    class Paciente {
+        - id : Long
+        - nome : String
+        - cpf : String
+        - email : String
+        - telefone : String
+        - endereco : String
+        - dataNascimento : Date
+
+        + getId() Long
+        + setId(id: Long) void
+        + getNome() String
+        + setNome(nome: String) void
+        + getCpf() String
+        + setCpf(cpf: String) void
+        + getEmail() String
+        + setEmail(email: String) void
+        + getTelefone() String
+        + setTelefone(telefone: String) void
+        + getEndereco() String
+        + setEndereco(endereco: String) void
+        + getDataNascimento() Date
+        + setDataNascimento(dataNascimento: Date) void
+    }
+
+    class Medico {
+        - id : Long
+        - nome : String
+        - crm : String
+        - email : String
+        - telefone : String
+        - endereco : String
+        - especialidade : Especialidade
+
+        + getId() Long
+        + setId(id: Long) void
+        + getNome() String
+        + setNome(nome: String) void
+        + getCrm() String
+        + setCrm(crm: String) void
+        + getEmail() String
+        + setEmail(email: String) void
+        + getTelefone() String
+        + setTelefone(telefone: String) void
+        + getEndereco() String
+        + setEndereco(endereco: String) void
+        + getEspecialidade() Especialidade
+        + setEspecialidade(especialidade: Especialidade) void
+    }
+
+    class Clinica {
+        - id : Long
+        - nome : String
+        - cnpj : String
+        - email : String
+        - telefone : String
+        - endereco : String
+        - exames : Exames[]
+        - pacientes : Paciente[]
+        - medicos : Medico[]
+
+        + getId() Long
+        + setId(id: Long) void
+        + getNome() String
+        + setNome(nome: String) void
+        + getCnpj() String
+        + setCnpj(cnpj: String) void
+        + getEmail() String
+        + setEmail(email: String) void
+        + getTelefone() String
+        + setTelefone(telefone: String) void
+        + getEndereco() String
+        + setEndereco(endereco: String) void
+        + getExames() Exames[]
+        + setExames(exames: Exames[]) void
+        + getPacientes() Paciente[]
+        + setPacientes(pacientes: Paciente[]) void
+        + getMedicos() Medico[]
+        + setMedicos(medicos: Medico[]) void
+    }
+
+    class Especialidade {
+        <<enumeration>>
+        CLINICO_GERAL
+        DERMATOLOGIA
+        ENDOCRINOLOGIA
+        GINECOLOGIA
+        HEMATOLOGIA
+        INFECTOLOGIA
+        NEUROLOGIA
+        ORTOPEDIA
+        PEDIATRIA
+        PSIQUIATRIA
+        RADIOLOGIA
+        UROLOGIA
+    }
+
+    class Exames {
+        <<enumeration>>
+        RAIO_X
+        URINARIO
+        SANGUE
+        COLESTEROL
+        GLICOSE
+        HEMOGRAMA
+        CARDIOGRAMA
+        ELETRO_CARDIOGRAMA
+    }
+
+    Medico --> Especialidade : especialidade
+    Clinica "1" --> "*" Exames : exames
+    Clinica "1" --> "*" Paciente : pacientes
+    Clinica "1" --> "*" Medico : medicos
+
+
+```
 
 
