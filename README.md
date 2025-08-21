@@ -53,7 +53,25 @@ Lucas Bigas Padilha
 - Como um funcionário, eu gostaria de editar os dados de um paciente, para corrigir informações incorretas.
 - Como um funcionário, eu gostaria de excluir um paciente, caso seja necessário remover registros duplicados ou incorretos.
 - Como um funcionário, eu gostaria de visualizar a lista de pacientes cadastrados, para facilitar a consulta.
+  
 - Como um funcionário, eu gostaria de cadastrar um médico, para que ele possa atender pacientes na clínica.
 - Como um funcionário, eu gostaria de editar os dados de um médico, para atualizar informações como especialidade ou contato.
 - Como um funcionário, eu gostaria de excluir um médico, caso ele não trabalhe mais na clínica.
 - Como um funcionário, eu gostaria de consultar a lista de médicos, para verificar quem está disponível.
+
+- Como um funcionário, eu gostaria de cadastrar uma especialidade médica, para associar aos médicos.  
+- Como um funcionário, eu gostaria de editar uma especialidade, para corrigir informações ou nomes.  
+- Como um funcionário, eu gostaria de excluir uma especialidade, caso não seja mais utilizada.
+
+- Como um funcionário, eu gostaria de cadastrar um exame, para que ele possa ser agendado e realizado.  
+- Como um funcionário, eu gostaria de editar um exame, para atualizar informações de procedimento ou preço.  
+- Como um funcionário, eu gostaria de excluir um exame, caso não seja mais oferecido.  
+
+- Como um funcionário, eu gostaria de cadastrar uma clínica, para poder associar atendimentos e exames.  
+- Como um funcionário, eu gostaria de editar os dados de uma clínica, para manter informações atualizadas.  
+- Como um funcionário, eu gostaria de excluir uma clínica, caso ela não esteja mais disponível.  
+
+- Como um funcionário, eu gostaria de cadastrar tipos de pagamento (dinheiro, cartão, convênio), para registrar transações.  
+- Como um funcionário, eu gostaria de editar tipos de pagamento, para corrigir informações.  
+- Como um funcionário, eu gostaria de excluir tipos de pagamento, caso não sejam mais aceitos.  
+  
