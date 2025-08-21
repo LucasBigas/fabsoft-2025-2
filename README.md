@@ -8,14 +8,7 @@ Lucas Bigas Padilha
   - Funcionalidade 3 Cadastrar Especialidades
   - Funcionalidade 4 Cadastrar Exames
   - Funcionalidade 5 Cadastrar clinicas 
-  - Funcionalidade 6 Cadastrar Tipos de Pagamentos
-  - Funcionalidade 7 Agendar consulta
-  - Funcionalidade 8 Prontuário Eletrônico
-  - Funcionalidade 9 Agendar exames 
-  - Funcionalidade 10 Controle de Convênios/Planos de Saúde
-  - Funcionalidade 11 Entrega de Exames
-  - Funcionalidade 12 Cadastrar Agenda
-  - *Funcionalidade 13 Sistema de Permissoes e login Medicos e Recepcionista
+  
 
 ## Aula 05/08
 
@@ -60,34 +53,4 @@ Lucas Bigas Padilha
 - Como um funcionário, eu gostaria de editar os dados de uma clínica, para manter informações atualizadas.  
 - Como um funcionário, eu gostaria de excluir uma clínica, caso ela não esteja mais disponível.  
 
-- Como um funcionário, eu gostaria de cadastrar tipos de pagamento (dinheiro, cartão, convênio), para registrar transações.  
-- Como um funcionário, eu gostaria de editar tipos de pagamento, para corrigir informações.  
-- Como um funcionário, eu gostaria de excluir tipos de pagamento, caso não sejam mais aceitos.
 
-- Como um funcionário, eu gostaria de agendar uma consulta, para organizar o atendimento do paciente.  
-- Como um funcionário, eu gostaria de editar uma consulta, caso haja alteração de horário ou médico.  
-- Como um funcionário, eu gostaria de cancelar uma consulta, caso o paciente não possa comparecer.  
-- Como um funcionário, eu gostaria de visualizar todas as consultas agendadas, para gerenciar a agenda.  
-
-- Como um médico, eu gostaria de registrar informações no prontuário do paciente, para manter histórico clínico atualizado.  
-- Como um médico, eu gostaria de consultar o prontuário de um paciente, para verificar seu histórico e diagnósticos.  
-- Como um médico, eu gostaria de editar o prontuário, para corrigir informações ou adicionar novos dados.  
-
-- Como um funcionário, eu gostaria de agendar um exame, para organizar a realização dos procedimentos.  
-- Como um funcionário, eu gostaria de editar um exame agendado, para ajustar data ou horário.  
-- Como um funcionário, eu gostaria de cancelar um exame, caso o paciente não possa comparecer.  
-- Como um funcionário, eu gostaria de visualizar todos os exames agendados, para gerenciar a agenda.  
-
-- Como um funcionário, eu gostaria de cadastrar convênios, para registrar planos aceitos na clínica.  
-- Como um funcionário, eu gostaria de editar convênios, para atualizar informações ou contatos.  
-- Como um funcionário, eu gostaria de excluir convênios, caso não sejam mais aceitos.  
-- Como um funcionário, eu gostaria de consultar convênios, para verificar cobertura e autorização de exames.  
-
-- Como um funcionário, eu gostaria de registrar a entrega de exames ao paciente, para confirmar que ele recebeu o resultado.  
-- Como um funcionário, eu gostaria de consultar os exames entregues, para controlar o histórico de entrega.
-
-- Como um funcionário, eu gostaria de cadastrar a agenda de médicos, para organizar horários de atendimento.  
-- Como um funcionário, eu gostaria de editar a agenda de médicos, para ajustar horários ou folgas.  
-- Como um funcionário, eu gostaria de excluir horários da agenda, caso não estejam disponíveis.  
-- Como um funcionário, eu gostaria de visualizar a agenda completa, para gerenciar consultas e exames.  
-  
