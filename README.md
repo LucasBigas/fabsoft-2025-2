@@ -2,17 +2,6 @@
 Lucas Bigas Padilha
 
 ## Propostas de projeto
-<s>
-  
-- Nome do sistema: Sistema Loja De Ferragens
-  - Funcionalidade 1 Cadastrar dados do Cliente
-  - Funcionalidade 2 Cadastrar Ferramentas
-  - Funcionalidade 3 Cadastrar Fornecedores
-
-  
-</s>
-
-
 - Nome do sistema: Sistema Clinico 
   - Funcionalidade 1 Cadastrar dados do Paciente
   - Funcionalidade 2 Cadastrar Medicos 
